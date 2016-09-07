@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_inicio"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:title="@string/item_inicio" />
+        <item
+            android:id="@+id/item_cuenta"
+            android:icon="@drawable/oferta"
+            android:title="@string/item_cuenta" />
+        <item
+            android:id="@+id/item_categorias"
+            android:icon="@drawable/revista"
+            android:title="@string/item_categorias" />
+        <item
+            android:id="@+id/item_configuracion"
+            android:icon="@drawable/simci"
+            android:title="@string/item_configuracion" />
+        <item
+            android:id="@+id/item_correo"
+            android:icon="@drawable/correo"
+            android:title="@string/item_correo"/>
+        <item
+            android:id="@+id/item_deportivo"
+            android:icon="@drawable/deportivo"
+            android:title="@string/item_deportivo"/>
+        <item
+            android:id="@+id/item_galeria"
+            android:icon="@drawable/galeria"
+            android:title="@string/item_Galeria"/>
+
+        <!--Seccion de siguenos-->
+
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/item_social">
+            <menu>
+                <item
+                    android:id="@+id/nav_facebook"
+                    android:icon="@drawable/facebook"
+                    android:title="@string/item_facebook" />
+
+                <item
+                    android:id="@+id/nav_twitter"
+                    android:icon="@drawable/twitter"
+                    android:title="@string/item_twitter"/>
+                <item
+                    android:id="@+id/nav_youtube"
+                    android:icon="@drawable/youtube"
+                    android:title="@string/item_youtube"/>
+            </menu>
+        </item>
+
+
+        <item
+            android:id="@+id/nav_ayuda"
+            android:title="@string/item_ayuda">
+            <menu>
+                <item
+                    android:id="@+id/nav_tuopinion"
+                    android:icon="@drawable/correo"
+                    android:title="@string/item_tuopinion" />
+            </menu>
+        </item>
+
+
+    </group>
+
+</menu>

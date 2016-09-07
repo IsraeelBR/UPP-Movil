@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">"UPP APP"</string>
+
+    <string name="action_infoapp">Acerca de la version</string>
+    <string name="action_search">Buscar</string>
+
+
+
+    //---------MENU DRAWER---------------------------------------
+    <string name="item_inicio">¿Quiénes Somos?</string>
+    <string name="item_cuenta">Oferta Educativa</string>
+    <string name="item_categorias">Revista Inmenio</string>
+    <string name="item_configuracion">SIMCI</string>
+    <string name="item_correo">Correo UPP</string>
+    <string name="item_deportivo">Deportivo La Plata</string>
+    <string name="item_Galeria">Galeria</string>
+    <string name="item_social">Sìguenos en</string>
+    <string name="item_facebook">Facebook</string>
+    <string name="item_twitter">Twitter</string>
+    <string name="item_youtube">YouTube</string>
+    <string name="item_ayuda">Ayuda</string>
+    <string name="item_tuopinion">Tu opinion nos interesa</string>
+    //--------------------------tab------------------------------------------
+    <string name="titulo_tab_perfil">Historia</string>
+    <string name="titulo_tab_direcciones">Portal de noticias</string>
+    <string name="titulo_tab_tarjetas">Mapa</string>
+    <string name="titulo_tab_escudo">Nuestro Escudo</string>
+    <string name="titulo_tab_inglic">Ingenierias y Licenciaturas</string>
+    <string name="titulo_tab_Posgrado">Posgrado</string>
+    <string name="Titulo_tab_fechas">Fechas de Ingreso</string>
+    <string name="titulo_tab_calendarios">Calendarios</string>
+
+    //-----------------------------------------------------------------------
+
+    <string name="titulo_inmenio">Revista Inmenio</string>
+    <string name="titulo_simci">SIMCI</string>
+    <string name="titulo_correo">Correo</string>
+    <string name="titulo_mapa">Mapa de UPP</string>
+
+//-----------------------------------simci--------------------------------------------------------------------------
+     <string name="info_simci">
+        informacion del simci jjfkerrgkewhgehtewhehgfj rgrgiuegivug teiut iueriutgeiugeutheri t ierrut iueritueriu t
+    </string>
+
+    <string name="info_mision">
+        La UPP es una institución pública que proporciona educación de calidad a través de programas educativos pertinentes de licenciatura y posgrado, atendiendo políticas de cobertura con equidad. Realiza extensión, vinculación, investigación y desarrollo tecnológico; formando integralmente profesionistas competentes, emprendedores e investigadores altamente calificados con valores universales, para contribuir al desarrollo sustentable, social y económico del país.
+    </string>
+
+    <string name="info_vision">
+        La UPP será una institución líder, innovadora, en creciente reconocimiento internacional; con todos sus programas educativos acreditados y reconocidos por su calidad, que realiza investigación interdisciplinaria y transdisciplinaria orientada al desarrollo científico y tecnológico; comprometida en la formación de egresados competentes y con valores; soportada por procesos de planeación y gestión transparentes que responden a las necesidades académicas; fortalecida por programas de extensión y vinculación, pertinentes para el desarrollo del estado y del país.
+    </string>
+
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="titulo_actividad_detalle">Actividad De Detalle</string>
+
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+
+    //--------------------------Ingenierias-y-Licenciaturas------------------------------------------------------------
+    <string name="info_biomedica"> 
+        Tiene como fin ayudar al desarrollo del área médico-biológica mediante la investigación y desarrollo de nuevas tecnologías en los campos de la ingeniería clínica, telemedicina, bioinstrumentación y tecnologías asistenciales.
+    </string>
+    <string name="info_biotecnologia">
+        Proporciona los conocimientos necesarios sobre la utilización de organismos vivos o partes de ellos para diseñar, desarrollar o innovar procesos o productos industriales, alimentarios, farmacológicos o relacionados con la protección y conservación del medio ambiente.
+    </string>
+    <string name="info_financiera">
+        Comprende el diseño, desarrollo e implementación de los instrumentos y procesos financieros innovadores mediante el uso de tecnologías de información que permitan la formulación de soluciones creativas para problemas económicos.
+    </string>
+    <string name="info_mecanicaAutomotriz">
+        Comprende tres áreas: mantenimiento, desarrollo tecnológico y manufactura, en las que se desarrollan programas de mantenimiento, evalúa tecnologías de innovación en energías alternativas y desarrolla procesos de manufactura para la industria automotriz.
+    </string>
+    <string name="info_mecatronica">
+        Permite adquirir conocimientos, habilidades y destrezas para diseñar, construir, automatizar, modernizar, implantar y dar mantenimiento a sistemas o procesos a través de la integración sinérgica de elementos mecánicos, electrónicos, de control y sistemas de software.
+    </string>
+    <string name="info_software">
+        Concierne a todos los aspectos de la producción de software. Los Ingenieros de Software adoptan un enfoque sistemático para llevar a cabo su trabajo y utilizan las herramientas y técnicas necesarias para resolver el problema planteado.
+    </string>
+    <string name="info_telematica">
+        Permite adquirir los conocimientos científicos y técnicos que se ocupan del tratamiento de la información por medio de computadoras electrónicas a distancia.
+    </string>
+    <string name="info_medicoCirujano">
+       Formar un médico con actitud de servicio que se comunique de manera abierta y flexible con el paciente; que colabore con otros miembros del multidisciplinario equipo de salud. Que en el diagnóstico y toma de decisiones, utilice las nuevas tecnologías.
+    </string>
+    <string name="info_terapiaFisica">
+        Es la Disciplina en la cual se forman profesionistas con alto sentido humanístico y ético, que responden a las necesidades de prevención y atención de personas con capacidades diferentes.
+    </string>
+    //--------------------------Posgrado------------------------------------------------------------
+      <string name="info_pos_biotecnologiaAmbiental">
+        Forma egresados con capacidades y competencias para solucionar problemas relacionados con la protección y conservación del ambiente, utilizando organismos vivos o metabolitos producidos para tal fin.
+      </string>
+      <string name="info_pos_mecatronica">
+        Proporciona los conocimientos de óptica, mecánica, electrónica, control y computación, que se requiere para mejorar, innovar y generar productos y procesos, con un alto grado de integración y que pueden utilizarse en los sectores industrial, agropecuario y salud.      
+      </string>
+    <string name="info_pos_seguridadInformatica">
+        Proporciona el conjunto de normas, implementaciones y buenas prácticas que garantizan ciertos niveles de protección frente a riesgos físicos o lógicos de las tecnologías de la información.
+    </string>
+    <string name="info_maestria_biotecnologia">
+        Forma egresados con capacidades y competencias para solucionar problemas relacionados con la protección y conservación del ambiente, utilizando organismos vivos o metabolitos producidos para tal fin.
+    </string>
+</resources>

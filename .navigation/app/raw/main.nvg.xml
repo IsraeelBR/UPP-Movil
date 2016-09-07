@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "upp.ahrsoft.soft.upp_app.ActividadSimci"/>
+      <point      
+        x = "536"      
+        y = "252"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "upp.ahrsoft.soft.upp_app.ActividadCorreo"/>
+      <point      
+        x = "292"      
+        y = "400"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "upp.ahrsoft.soft.upp_app.ActividadInmenio"/>
+      <point      
+        x = "616"      
+        y = "356"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "upp.ahrsoft.soft.upp_app.ActividadCorreoUPP"/>
+      <point      
+        x = "616"      
+        y = "328"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "upp.ahrsoft.soft.upp_app.ActividadPrincipal"/>
+      <point      
+        x = "456"      
+        y = "264"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
